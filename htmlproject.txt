@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    	<link type="text/css" rel="stylesheet" href="stylesheet.css"/>
+	<title>Krystle's Project</title>
+	</head>
+	<body>
+		<div id="header">
+			<p id="name">Krystle's Resume Example #1</p>
+			<a href="mailto:KrystleLynn@live.com"><p id="email">KrystleLynn@live.com</p></a>
+		</div>
+		<div class="left">
+<br>
+<br>
+    			<img src='http://us.123rf.com/400wm/400/400/brux/brux1108/brux110800054/10390438-illustration-curious-panda-on-stem-of-the-bamboo.jpg'>
+<br>
+<br>
+<br>
+			<div id="Facebook">	
+            		<p>Find me here:</p>    	
+	    		<a href="https://www.facebook.com/Squeaktoy"><span>Facebook</span></a>
+		</div>
+<br>
+<br>
+		</div>
+
+		<div class="right" id="menu">
+			<h2>Objective</h2>
+			<p>To take a manager position!</p> 
+			<h2>Summary of Qualifications</h2>
+			<ul>
+				<li>Operates all office programs including and not limited to: Word, Excel, PowerPoint, Outlook.</li>
+				<li>Optimistic attitude, reliable, outgoing, energetic, determined, polite, and honest.</li>
+				<li>Quick learner to the processes of programs.</li>
+				<li>More than six years of working experience in varied customer service environments.</li>
+				<li>Remains a professional phone etiquette and attire.</li>
+			</ul>
+		
+			<h2>Education</h2>
+			<ol>
+				<li>High School, City, State		Diploma June 2006</li>
+				<li>College, City, State		Associate 2012</li>
+			</ol>
+			<h2>Experience</h2>
+			<h3>Research Skills</h3>
+			<ol>
+				<li>Plan and conduct activities or training for a balanced program of instruction, demonstration, and work time that provides students, clients and customers with opportunities to observe, question, and investigate.</li>
+				<li>Time off used for product/software/hardware knowledge increase.</li>
+				<li>Plan and prepare work to be complete with a high quality outcome in a short quantity of time.</li>
+			</ol>
+			<h3>Time Management Skills</h3>
+			<ol>
+				<li>Plan and coordinate advertising campaigns and sales promotions, and prepare merchandise displays and advertising protocol with sufficient amount of time to inform coworkers and or customers.</li>
+				<li>Down time used appropriately for getting ahead on tasks or going above and beyond for others.</li>
+				<li>Manage calendars and arrange appointments for visitors, businesses, technical work and more.</li>
+				<li>Responsible for planning, supervising, teaching various projects, updates, and more efficient systems to others.</li>
+			</ol>
+			<h3>Job Ethics</h3>
+			<ol>
+				<li>Handled sensitive product information protected under the NDA agreement.</li>
+				<li>Greet customers and ascertain what each customer wants or needs.</li>
+				<li>Describes product well and explain use, operation, and care of product to customers.</li>
+				<li>Recommend, select, and help locate or obtain merchandise based on customer needs and desires.</li>
+				<li>Provide customer service by greeting/assisting customers, and responding to customer inquiries and complaints.</li>
+				<li>Responsible for balancing cash registers, performing tasks such as counting money, separating charge slips, coupons, vouchers, and making bank deposits.</li>
+			</ol>
+			<h3>Organization Skills</h3>
+			<ol>
+				<li>Ticket, arrange and display merchandise to promote sales by creating signage, logs, labels for products and announcements.</li>
+				<li>Constructs visual set up of technology and products.</li>
+				<li>Operator for customer phone calls: transfers, answers, and technical support.</li>
+				<li>Experience working in a computerized office environment with word processing, database and spreadsheet skills sufficient to prepare correspondence, reports, forms, statistical/technical/scientific materials, etc. with speed and accuracy.</li>
+				<li>Has the willingness to learn and use new computer programs/applications. </li>
+				<li>Can maintain records and files for easy access and retrieval. </li>
+			</ol>
+			<h2>Additional Experience</h2>
+			<ul>
+				<li>WPM: 50+</li>
+				<li>Provided technical support over the phone in addition to normal duties at Microsoft. </li>
+				<li>Created realistic skits and scripts to help give staff opportunities to interact with challenging customer service and safety situations at Spirit Halloween, Adidas and Microsoft to better handle tasks that they feel they need to work on.</li>
+				<li>Intrigued the corporate office of Spencer's Gifts by bringing in over $5,000 in donations to Seattle Children's Hospital when the initial goal was $500 at Spirit Halloween.</li>
+			</ul>
+
+			<h2>Work History</h2>
+			<ol>
+				<li>CEDAR RIVER WATERSHED EDUCATION CENTER, NORTH BEND, WA</li>
+<br>				<p><em>Unpaid Volunteer, October 2004- Present</em></p>
+				<li>MICROSOFT STORE, BELLEVUE, WA</li>
+<br>				<p><em>Product Advisor, October 2012-January 2013</em></p>
+				<li>CENTRAL PARKING SYSTEM, BELLEVUE, WA</li>
+<br>				<p><em>Valet then promoted to Lead Valet, December 2010-January 2012</em></p>
+				<li>ADIDAS, NORTH BEND, WA</li>
+<br>				<p><em>Sales Associate, April 2010- January 2011 </em></p>
+				<li>SPIRIT HALLOWEEN, ISSAQUAH, WA</li>
+<br>				<p><em>Sales Associate then promoted to Assistant Manager, September 2009- November 2009 </em></p>
+				<li>MICHAELS ARTS AND CRAFTS, ISSAQUAH, WA</li>
+<br>				<p><em>Cashier and Event Planner, August 2006 – April 2007</em></p>
+			</ol> 
+		</div>
+		<div id="footer">
+			<p>Renton, Washington 98057 | Tel: (111) 222-3333</p>
+		</div>
+	</body>
+</html>
